@@ -1,6 +1,6 @@
-# Data-Warehousing-Mining-Lab
+# <h1> Data-Warehousing-Mining-Lab
 
-Lab Objectives:
+## <h3>Lab Objectives:
 
 1.Learn how to build a data warehouse and query it.
 2.Learn about the data sets and data preprocessing.
@@ -8,7 +8,7 @@ Lab Objectives:
 4.Apply the data mining techniques with varied input values for different parameters.
 5.Explore open source software (like WEKA) to perform data mining tasks.
 
-Lab Outcomes: At the end of the course, the student will be able to
+## <h3>Lab Outcomes: At the end of the course, the student will be able to
 
 1.Design data warehouse and perform various OLAP operations.
 2.Implement data mining algorithms like classification.
